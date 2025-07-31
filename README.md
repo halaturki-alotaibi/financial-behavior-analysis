@@ -40,6 +40,8 @@ We use real-world financial behavior indicators — such as **Savings Rate**, **
 https://public.tableau.com/views/UnderstandingCustomersThroughFinancialBehavior/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
-## 👩‍💻 Author
+## 👩‍💻 Author:
+
 **Hala Alotaibi** [https://www.linkedin.com/in/halaturki-alotaibi/]
+
 **Reema Alotaibi** [https://www.linkedin.com/in/reematurki-alotaibi/]
