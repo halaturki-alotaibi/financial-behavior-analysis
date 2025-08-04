@@ -16,7 +16,7 @@ We use real-world financial behavior indicators — such as **Savings Rate**, **
 ## 📈 Example Use Case
 
 > A bank wants to improve its customer segmentation strategy by analyzing financial behaviors.  
-> Using this model, the bank can classify customers into "Savers", "Investors", or "Consumers" and offer personalized financial products — such as savings plans, investment portfolios, or debt management services — tailored to each segment's habits and goals.
+> Using this model, the bank can classify customers into "Savers", "Investors", or "Spender" and offer personalized financial products — such as savings plans, investment portfolios, or debt management services — tailored to each segment's habits and goals.
 ---
 
 ## 🧪 Key Features
