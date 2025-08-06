@@ -32,25 +32,24 @@ This segmentation enables better customer targeting and improved service persona
 - 📊 **Exploratory Data Analysis (EDA)**  
   - Visual insights into financial behavior patterns across segments  
 
-- 🧠 **Model Training & Comparison**  
-  - Applied models include:
-    - Logistic Regression  
-    - Decision Tree  
-    - Random Forest  
-    - XGBoost  
-    - LightGBM  
-    - Support Vector Machines (SVM)  
+- 🧠 **Model Training & Comparison**
+Applied classification models include:
 
-- ⚖️ **Handling Class Imbalance**  
-  - Used SMOTE for synthetic oversampling  
-
-- 📈 **Model Evaluation**  
-  - Confusion matrices  
-  - Classification reports  
-  - Accuracy, precision, recall, and F1-score  
-
-- 🔍 **Model Explainability**  
-  - SHAP (SHapley Additive exPlanations) analysis to interpret key features contributing to predictions
+Logistic Regression
+Decision Tree Classifier
+Random Forest Classifier
+Gradient Boosting Classifier
+XGBoost (Extreme Gradient Boosting)
+LightGBM (Light Gradient Boosting Machine)
+Support Vector Machines (SVM)
+- ⚖️ **Handling Class Imbalance**
+Used SMOTE for synthetic oversampling
+- 📈 **Model Evaluation**
+Confusion matrices
+Classification reports
+Accuracy, precision, recall, F1-score
+- 🔍 **Model Explainability**
+SHAP (SHapley Additive exPlanations) analysis to interpret key features contributing to predictions
 
 ---
 
